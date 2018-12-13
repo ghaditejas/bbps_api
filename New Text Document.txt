@@ -1,0 +1,55 @@
+{
+
+	"data": {
+
+		"utilityid": "1",
+
+		"providerid": "1",
+
+		"merchantid": "24568",
+
+		"secretkey": "4fdsf42342",
+
+		"servicetype": "0",
+
+		"registerurl": "http: //abc.com/register",
+
+		"responseurl": "http: //abc.com/response",
+
+		"checksum": "",
+
+		"billdata": {
+
+			"0": {
+
+				"firstname": "abc",
+
+				"lastname": "xyz",
+
+				"email": "abc@gmail.com",
+
+				"mobile": "9869464039",
+
+				"Consumer_Number": "1234567890"
+
+			},
+
+			"1": {
+
+				"firstname": "abc",
+
+				"lastname": "xyz",
+
+				"email": "abc@gmail.com",
+
+				"mobile": "9869464039",
+
+				"Consumer_Number": "1234567891"
+
+			}
+
+		}
+
+	}
+
+}
